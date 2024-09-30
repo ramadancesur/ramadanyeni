@@ -1,0 +1,24 @@
+{
+  "Personnel": [
+    {
+      "Employee": {
+        "ID": 0001,
+        "FirstName": "Ramadan",
+        "LastName": "Cesur",
+        "Department": "Information Technology",
+        "Position": "Software Test Engineer",
+        "HireDate": "2024-03-15"
+      }
+    },
+    {
+      "Employee": {
+        "ID": 0025,
+        "FirstName": "Selin",
+        "LastName": "Ayşe",
+        "Department": "Human Resources",
+        "Position": "Human Resources Manager",
+        "HireDate": "2022-06-01"
+      }
+    }
+  ]
+}
