@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Personnel>
+    <Employee>
+        <ID>"0001"</ID>
+        <Department>Informnation Technology</FirstName>
+        <FirstName>Ramadan</FirstName>
+        <LastName>Cesur</LastName>
+        <Position>Software Test Engineer</Position>
+        <HireDateAeg>2024-03-15</HireDate>
+    </Employee>
+    <Employee>
+        <ID>"0025"</ID>
+        <FirstName>Selin</FirstName>
+        <LastName>Ayşe/LastName>
+        <Position>Human Resources Manager</Position>
+        <Department>Human Resource</Department>
+        <HireDate>2022-06-01</HireDate>
+    </Employee>
+</Personnel>
